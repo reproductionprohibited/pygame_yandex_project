@@ -1,0 +1,3 @@
+([('main',
+   '/Users/stanislavtomulets/Desktop/pygame_yandex_project/dist/main',
+   'EXECUTABLE')],)
